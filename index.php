@@ -1,7 +1,7 @@
 
 <html>
 <body>
-  <table border = "2">
+  <table border = "3">
       <tr>
           <th> ID</th>
           <th> FirstName</th>
@@ -40,7 +40,7 @@ $con -> close();
    
     <button> Нэмэх </button>
     <button> Засах </button>
-    <button> Устгах </button>
+    <button> Устгах. </button>
  
 
   </table>
